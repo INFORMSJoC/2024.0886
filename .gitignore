@@ -1,0 +1,12 @@
+# IJOC Template
+*~
+*.o
+
+# Python Specific
+__pycache__
+
+# LaTeX
+**/*.aux
+**/*.log
+**/*.synctex.gz
+**/*.out
